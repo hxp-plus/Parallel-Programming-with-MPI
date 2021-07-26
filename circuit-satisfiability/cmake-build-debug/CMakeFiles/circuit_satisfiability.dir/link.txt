@@ -1,0 +1,1 @@
+mpicc -g   CMakeFiles/circuit_satisfiability.dir/main.c.o  -o circuit_satisfiability 

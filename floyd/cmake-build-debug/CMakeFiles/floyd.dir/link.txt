@@ -1,0 +1,1 @@
+mpicc -g   CMakeFiles/floyd.dir/main.c.o CMakeFiles/floyd.dir/mympi.c.o  -o floyd 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/hxp/Desktop/MPI Programming/floyd/write_row.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+

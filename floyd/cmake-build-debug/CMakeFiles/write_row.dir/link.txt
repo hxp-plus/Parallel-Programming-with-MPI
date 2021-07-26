@@ -1,0 +1,1 @@
+mpicc -g   CMakeFiles/write_row.dir/write_row.c.o  -o write_row 

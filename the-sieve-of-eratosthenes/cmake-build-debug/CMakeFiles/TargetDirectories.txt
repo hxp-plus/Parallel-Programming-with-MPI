@@ -1,0 +1,3 @@
+/mnt/c/Users/hxp/Desktop/MPI Programming/the-sieve-of-eratosthenes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/hxp/Desktop/MPI Programming/the-sieve-of-eratosthenes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/hxp/Desktop/MPI Programming/the-sieve-of-eratosthenes/cmake-build-debug/CMakeFiles/the_sieve_of_eratosthenes.dir

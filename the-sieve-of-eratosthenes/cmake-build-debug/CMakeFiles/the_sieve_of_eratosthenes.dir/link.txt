@@ -1,0 +1,1 @@
+mpicc -g   CMakeFiles/the_sieve_of_eratosthenes.dir/main.c.o  -o the_sieve_of_eratosthenes  -lm 
